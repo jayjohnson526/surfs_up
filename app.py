@@ -1,7 +1,3 @@
-# Ignore SQLite warnings related to Decimal Numbers
-#import warnings
-#warnings.filterwarnings('ignore')
-
 # Import dependencies
 import datetime as dt
 import numpy as np
