@@ -25,7 +25,7 @@ For this analysis, we will use a SQLite database containing data from multiple w
 * The maximum recorded temperature is 83.0&deg;F, while the minimum recorded temperature is 56.0&deg;F.
 
 
-### *Summary
+## Summary
 ![](images/Oahu_tobs.png)
 
 The box plot above is a visual representation of the temperature statistics for the months of June and December. As far as seasonal differences go, we can see that the temperature on Oahu remains consistent at a comfortable range of 65&deg;F to 85&deg;F year-round. Based on temperature, Oahu would be an ideal location to open up a surf and shake shack.
